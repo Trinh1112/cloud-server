@@ -4,7 +4,7 @@
     "description": "Node.js project to manage tours with MySQL",
     "main": "app.js",
     "scripts": {
-        "start": "nodemon app.js"
+        "start": "node app.js"
     },
     "dependencies": {
         "baochung": "file:",
